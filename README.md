@@ -1,6 +1,6 @@
 # Welcome to jitsi-contrib!
 
-This organizations aims to become an unbrella for community supported 3rd party packages for the Jitsi ecosystem. It's in early stages but we want to try it out and empower the community to work on their Jitsi-related projects in this organization, should they so desire.
+This organizations aims to become an umbrella for community supported 3rd party packages for the Jitsi ecosystem. It's in early stages but we want to try it out and empower the community to work on their Jitsi-related projects in this organization, should they so desire.
 
 ## Adding a project
 
